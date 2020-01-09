@@ -1,5 +1,7 @@
 # Awesome-CV
 
+[![time tracker](https://wakatime.com/badge/github/zehengl/Awesome-CV.svg)](https://wakatime.com/badge/github/zehengl/Awesome-CV)
+
 My LaTeX template for Curriculum Vitae, Résumé, and Cover Letter
 
 ## Usage
