@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "CoenraadS.bracket-pair-colorizer",
+    "DavidAnson.vscode-markdownlint",
+    "james-yu.latex-workshop",
+    "ms-vscode.wordcount",
+    "oderwat.indent-rainbow",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
