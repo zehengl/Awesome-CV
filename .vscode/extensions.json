@@ -1,10 +1,12 @@
 {
   "recommendations": [
+    "arcticicestudio.nord-visual-studio-code",
     "CoenraadS.bracket-pair-colorizer",
     "DavidAnson.vscode-markdownlint",
     "james-yu.latex-workshop",
     "ms-vscode.wordcount",
     "oderwat.indent-rainbow",
+    "streetsidesoftware.code-spell-checker",
     "vscode-icons-team.vscode-icons"
   ]
 }
